@@ -5,14 +5,14 @@ app = Flask(__name__)
 List = [
     {
         'id': 1,
-        'Name': u'Raju',
-        'Contact': u'9987644456', 
+        'Name': 'Raju',
+        'Contact': '9987644456', 
         'done': False
     },
     {
         'id': 2,
-        'Name': u'Rahul',
-        'Contact': u'9876543222', 
+        'Name': 'Rahul',
+        'Contact': '9876543222', 
         'done': False
     }
 ]
